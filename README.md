@@ -1,0 +1,4 @@
+# ProyectoAnimales
+Prueba CRUD, LOGIN, VALIDACIONES en Web API
+
+REALIZADO EN .NET CORE 3
